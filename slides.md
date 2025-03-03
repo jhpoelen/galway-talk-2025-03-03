@@ -1,6 +1,7 @@
 ---
 author: Jorrit Poelen https://jhpoelen.nl
-title: Unleashing Ollscoil na Gaillimhe / University of Galway's Research Data Into the Future
+title: Unleashing Research Data Into the Future
+subtitle: at the Ollscoil na Gaillimhe / University of Galway
 date: 2025-03-03
 ---
 
